@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          John's App Version 1 Learn React with John Doe - 2025
+          John's App Version 2 Learn React with John Doe - 2025
         </a>
       </header>
     </div>
